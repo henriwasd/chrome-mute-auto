@@ -1,6 +1,6 @@
-# Chrome Mute Auto
+# Mute Auto
 
-Uma extensão do Chrome que gerencia automaticamente o áudio das abas, garantindo que apenas uma aba reproduza áudio por vez, a menos que a aba esteja fixada.
+Uma extensão do Navegador que gerencia automaticamente o áudio das abas, garantindo que apenas uma aba reproduza áudio por vez, a menos que a aba esteja fixada.
 
 ## Funcionalidades
 

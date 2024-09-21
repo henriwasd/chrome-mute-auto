@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Chrome Mute Auto",
+  "name": "Mute Auto",
   "version": "1.0",
   "description": "Mute all tabs automatically, except for the fixed tabs.",
   "background": {
